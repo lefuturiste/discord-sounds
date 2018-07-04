@@ -1,6 +1,8 @@
 # Discord-sounds
 
-All of sounds used in the discord app
+All of sounds used in the discord app...
+
+Play on Sound cloud with [this playlist.](https://soundcloud.com/le_futuriste/sets/discord-sounds)
 
 - [Deaf](https://raw.githubusercontent.com/lefuturiste/discord-sounds/master/deaf.mp3)
 - [Deconnected](https://raw.githubusercontent.com/lefuturiste/discord-sounds/master/deconnected.mp3)
